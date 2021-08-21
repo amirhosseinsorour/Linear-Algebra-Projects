@@ -1,2 +1,2 @@
 # LinearAlgebra-AUT
-Homeworks of AUT Linear Algebra course in python
+Projects of AUT Linear Algebra course in python programming language
